@@ -11,5 +11,9 @@ Finally, this dream has come true with Midjourney, a generative AI that allows u
 with text, it responds with an image instead! Keep reading through this lesson to learn more about this new technology and its large impact on industry, education, and even our daily 
 lives!
 
+* Instructions
+--------------
+Hit the “Next” button when you are ready to begin!
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
