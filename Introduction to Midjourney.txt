@@ -17,3 +17,68 @@ Hit the “Next” button when you are ready to begin!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* What is Midjourney?
+---------------------
+Midjourney is a groundbreaking generative image AI designed to craft visuals from only textual descriptions. This unique ability makes it possible for users to not just visualize simple 
+objects like “a red apple” but also more intricate ideas such as “a futuristic cityscape at sunset” or even abstract thoughts like “the feeling of nostalgia.”
+
+What sets Midjourney apart from other generative tools is its seamless integration with the popular chat platform, Discord. This comfortable, device-agnostic approach means that users can 
+communicate and generate images on the fly from anywhere, making artistic creation even more accessible.
+
+But Midjourney doesn’t stop at just generating images from text. It has a range of advanced features that can alter uploaded and generated pictures as well:
+
+	. Adaptation: The platform can modify certain elements of an existing image based on a text prompt. If you have an image of a “blue car,” Midjourney can effortlessly transform it 
+	into a “red car” without any manual editing.
+
+	. Blend: Midjourney can take two distinct images and meld the concepts and aesthetics of each into a brand new visual.
+
+	. Image Repair and Completion: If you have a partially hidden or damaged image, Midjourney can leverage the surrounding context and user-provided text prompts to repair or 
+	complete it.
+
+* Instructions
+--------------
+Click on a sample prompt to see what interacting with Midjourney could look like!
+
+Try starting with:
+
+“Create an image of a red apple”
+
+Make sure to click the Send button in the workspace to send your message! It looks like a paper airplane:GPT Send
+
+Create an image of a red apple
+
+
+Ok, here is an image of a red apple
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
