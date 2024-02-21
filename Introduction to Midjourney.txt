@@ -1,0 +1,15 @@
+# INTRODUCTION TO MIDJOURNEY: LESSON
+------------------------------------
+
+* Getting Started
+-----------------
+
+omputers understanding what the world around us looks like has long been a dream of programmers and artists alike. As computers evolved and gained the ability to recognize various 
+objects, the next logical step was for them to create these visuals themselves.
+
+Finally, this dream has come true with Midjourney, a generative AI that allows users to generate unique images with only text. Think ChatGPT, but instead of an AI answering your prompts 
+with text, it responds with an image instead! Keep reading through this lesson to learn more about this new technology and its large impact on industry, education, and even our daily 
+lives!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
